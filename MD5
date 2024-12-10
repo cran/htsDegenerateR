@@ -1,0 +1,15 @@
+f6017a1df2402b4a9d26b2e8a6ae54bf *DESCRIPTION
+fab4af941d33372b320bb1899514275e *NAMESPACE
+0bc0bebe05a883bdf49fea0b783f7841 *NEWS.md
+7888b682f76986db63c879e978981ecd *R/BU.R
+d11e16c767123dcb612368735605b438 *R/MinT.R
+82f0bfcebbab0ddd1427745e432eee99 *R/StructuralScaling.R
+d1bbf1227adcb8a9064bae04c30508b8 *R/helpers.R
+d79e4984d07d6cc475f4291c7baf4de4 *R/reconcile_funcs.R
+dcd0b836bb5dfd8b5eb06da1309ad9f7 *README.md
+0b42d503478f4b76c3e9739b13bb4d87 *inst/CITATION
+097cc2a7ef3fc4eb142a736d259ec226 *inst/examples/MInT_Example.R
+9552303c67dafb2eee8d876bf0f73a50 *man/BU.Rd
+259f89f5aa3c6492821b2a532a34e0d4 *man/MinT.Rd
+318c0465b74c340651300abdc98e2eb3 *man/accuracy.gts.Rd
+638eb1e85c1da51902d7330d391be04d *man/strucScaling.Rd
